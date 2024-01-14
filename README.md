@@ -40,7 +40,7 @@ Before running, make sure you have Docker installed on your system.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/seymaozler/card-application.git
+   git clone https://github.com/devnabibia/Card_application.git
    ```
 2. Create a virtual environment and activate it
    ```sh
